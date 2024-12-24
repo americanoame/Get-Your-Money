@@ -1,7 +1,10 @@
+import MoneyGuessingGame from "./components/MoneyGuessingGame"
+
+
 
 const App = () => {
   return (
-    <div>App</div>
+    <MoneyGuessingGame />
   )
 }
 
