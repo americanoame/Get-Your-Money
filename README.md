@@ -1,5 +1,3 @@
-# REACT JS INTERVIEW CHALLENGE.
-
 ## How to Play the Game
 
 ### 1. Start the Game:
@@ -34,7 +32,7 @@
   </tr>
 
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/fa561710-f5c4-4f51-93ef-86f1e30842c1"><td>
+    <td><img src="https://github.com/user-attachments/assets/4ccc3421-bbe3-415c-ac4b-79ad34e2e2a6"><td>
     <td><img src="https://github.com/user-attachments/assets/ec99d8e1-31e4-4f2e-be3a-618210003847"><td>
   </tr>
 </table>
